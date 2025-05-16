@@ -1,8 +1,5 @@
 /**
-  ******************************************************************************
-  * @file    main.c
-  * @author  Yohanes Erwin Setiawan (modified for WS2812 8x8 with custom FFT)
-  * @date    May 2025
+
   ******************************************************************************
   * @brief   Spectrum analyzer using 16 point FFT (custom, no CMSIS-DSP)
   *          Audio input from MAX9812 (ADC1, PA1)
